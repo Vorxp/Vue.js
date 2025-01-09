@@ -1,0 +1,103 @@
+{
+  "course": [
+    {
+      "SubjID": "01417111",
+      "SubjName": "Calculus I",
+      "SubjNameTh": "แคลคูลัส I",
+      "Credit": 3,
+      "Grade": "C+",
+      "year": 2565,
+      "Semester": "ภาคต้น",
+      "isShow": false,
+      "id": "ab23"
+    },
+    {
+      "SubjID": "01418112",
+      "SubjName": "Fundamental Programming Concepts",
+      "SubjNameTh": "แนวคิดการโปรแกรมเบื้องต้น",
+      "Credit": 3,
+      "Grade": "B",
+      "year": 2565,
+      "Semester": "ภาคต้น",
+      "isShow": false,
+      "id": "ad89"
+    },
+    {
+      "SubjID": "01418111",
+      "SubjName": "Introduction to Computer Science",
+      "SubjNameTh": "วิทยาการคอมพิวเตอร์เบื้องต้น",
+      "Credit": 2,
+      "Grade": "C",
+      "year": 2565,
+      "Semester": "ภาคต้น",
+      "isShow": false,
+      "id": "b03e"
+    },
+    {
+      "SubjID": "01418141",
+      "SubjName": "Intellectual Properties and Professional Ethics",
+      "SubjNameTh": "ทรัพย์สินทางปัญญาและจรรยาบรรณวิชาชีพ",
+      "Credit": 3,
+      "Grade": "C",
+      "year": 2565,
+      "Semester": "ภาคต้น",
+      "isShow": false,
+      "id": "72ed"
+    },
+    {
+      "SubjID": "01417322",
+      "SubjName": "Basic Linear Algebra",
+      "SubjNameTh": "พีชคณิตเชิงเส้นพื้นฐาน",
+      "Credit": 3,
+      "Grade": "B",
+      "year": 2565,
+      "Semester": "ภาคปลาย",
+      "isShow": false,
+      "id": "7ca2"
+    },
+    {
+      "SubjID": "01418132",
+      "SubjName": "Fundamentals of Computing",
+      "SubjNameTh": "หลักมูลการคณนา",
+      "Credit": 3,
+      "Grade": "B",
+      "year": 2565,
+      "Semester": "ภาคปลาย",
+      "isShow": false,
+      "id": "82e5"
+    },
+    {
+      "SubjID": "01418131",
+      "SubjName": "Statistical Programming",
+      "SubjNameTh": "การโปรแกรมทางสถิติ",
+      "Credit": 3,
+      "Grade": "B+",
+      "year": 2565,
+      "Semester": "ภาคปลาย",
+      "isShow": false,
+      "id": "00ed"
+    },
+    {
+      "SubjID": "01418113",
+      "SubjName": "Computer Programming",
+      "SubjNameTh": "การโปรแกรมคอมพิวเตอร์",
+      "Credit": 3,
+      "Grade": "A",
+      "year": 2565,
+      "Semester": "ภาคปลาย",
+      "isShow": false,
+      "id": "589a"
+    },
+    {
+      "id": "0605",
+      "SubjID": "653014",
+      "SubjNameTh": "วรพล บุญราศรี",
+      "SubjName": "Vorapol Boonrasri",
+      "Credit": "3",
+      "year": 2565,
+      "Grade": "A",
+      "Semester": "ภาคปลาย",
+      "isShow": false
+    }
+  ]
+}
